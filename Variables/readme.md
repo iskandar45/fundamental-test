@@ -1,4 +1,4 @@
-# Latihan Fundamental
+# Latihan Variabel
 
 ## Berikut adalah beberapa latihan tentang variabel:
 
